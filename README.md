@@ -1,15 +1,10 @@
 
 ### Olá, eu sou o Antônio Víctor 👋
-
-<!--
-**Antonio91378/Antonio91378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🌱 Estudando meios de implementar back-end em meus apps com, Java, Php e Django
+- 🌱 Estudando back-end com Java, Php e Django
 - 👯 Atualmente procurando estágio na área de programação
 - 📫 contate-me no e-mail: antoniovictor200@gmail.com
-- ⚡ Fun fact: 
--->
+ 
+
 <div align="center">
   <a href="https://github.com/Antonio91378">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio91378&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
