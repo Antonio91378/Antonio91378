@@ -3,7 +3,7 @@
 - 🌱 Habilidades em front-end/ Estudando back-end com Java, Php, Django e Firebase
 - 👯 Atualmente procurando estágio na área de programação
 - 📫 contate-me no e-mail: antoniovictor200@gmail.com
- teste
+
 
 <div align="center">
   <a href="https://github.com/Antonio91378">
