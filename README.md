@@ -1,7 +1,7 @@
 
 ### Olá, eu sou o Antônio Víctor 👋
-- 🌱 Habilidades em front-end/ Estudando back-end com Java, Php, Django e Firebase
-- 👯 Atualmente procurando estágio na área de programação
+- 🌱 Habilidades em front-end/ Estudando back-end com C# e .NET
+- 👯 Atualmente estagiando na BitPagg como back-end developer
 - 📫 contate-me no e-mail: antoniovictor200@gmail.com
 
 
