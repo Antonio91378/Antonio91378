@@ -1,6 +1,6 @@
 
 ### Olá, eu sou o Antônio Víctor 👋
-- 🌱 Habilidades em front-end/ Estudando back-end com C# e .NET
+- 🌱 Habilidades em front-end/ Estudando back-end com C# 
 - 👯 Atualmente estagiando na BitPagg como back-end developer
 - 📫 contate-me no e-mail: antoniovictor200@gmail.com
 
