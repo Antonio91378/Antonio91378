@@ -1,6 +1,6 @@
 
 ### Olá, eu sou o Antônio Víctor 👋
-- 🌱 Habilidades em front-end com React/ back-end com C# 
+- 🌱 Habilidades em front-end com React/ back-end com C# e Firebase 
 - 👯 Atualmente estagiando na BitPagg como back-end developer
 - 📫 Contate-me no e-mail: antoniovictor200@gmail.com
 - 🐱‍👤 Estudando Angular com typeScript
