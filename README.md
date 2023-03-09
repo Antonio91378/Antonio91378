@@ -1,7 +1,7 @@
 
 ### Olá, eu sou o Antônio Víctor 👋
-- 🌱 Habilidades com back-end utilizando C#/ conhecimentos gerais com front-end   
-- 👯 Atualmente trabalhando na BitTech como desenvolvedor back-end 
+- 🌱 Desenvolvedor C#, focado em back-end/ conhecimentos gerais em front-end  
+- 👯 Atualmente trabalhando na BitTech como desenvolvedor back-end dotNet
 - 📫 Contate-me no e-mail: antoniovictor200@gmail.com
 - 🐱‍👤 Estudando Angular com typeScript
 
