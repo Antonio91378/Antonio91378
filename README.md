@@ -3,7 +3,7 @@
 - 🌱 Desenvolvedor C#, focado em back-end/ conhecimentos gerais em front-end  
 - 👯 Atualmente trabalhando na BitTech como desenvolvedor back-end dotNet
 - 📫 Contate-me no e-mail: antoniovictor200@gmail.com
-- 🐱‍👤 Estudando Angular com typeScript
+- 🐱‍👤 Estudando desenvolvimento XR
 
 
 <div align="center">
